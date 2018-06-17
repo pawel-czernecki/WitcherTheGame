@@ -1,0 +1,194 @@
+# depslib dependency file v1.0
+1497035993 source:c:\users\pc\desktop\nowy folder (3)\witcher the game v0.1\gamesystem.cpp
+	"gamesystem.h"
+
+1498416917 source:c:\users\pc\desktop\nowy folder (3)\witcher the game v0.1\level.cpp
+	"level.h"
+
+1498592592 source:c:\users\pc\desktop\nowy folder (3)\witcher the game v0.1\main.cpp
+	"level.h"
+	"gamesystem.h"
+	"player.h"
+	"menu.h"
+
+1498337953 source:c:\users\pc\desktop\nowy folder (3)\witcher the game v0.1\menu.cpp
+	"menu.h"
+
+1498337879 c:\users\pc\desktop\nowy folder (3)\witcher the game v0.1\menu.h
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<string>
+	<fstream>
+
+1498424174 source:c:\users\pc\desktop\nowy folder (3)\witcher the game v0.1\player.cpp
+	"player.h"
+
+1498390625 c:\users\pc\desktop\nowy folder (3)\witcher the game v0.1\gamesystem.h
+	<iostream>
+	<fstream>
+	<conio.h>
+	<cstdlib>
+	<sstream>
+
+1498337505 c:\users\pc\desktop\nowy folder (3)\witcher the game v0.1\level.h
+	<iostream>
+	<cstdlib>
+	<windows.h>
+
+1497383485 c:\users\pc\desktop\nowy folder (3)\witcher the game v0.1\player.h
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<time.h>
+	<conio.h>
+
+1497035993 source:d:\witcher the game v0.1\gamesystem.cpp
+	"gamesystem.h"
+
+1498390625 d:\witcher the game v0.1\gamesystem.h
+	<iostream>
+	<fstream>
+	<conio.h>
+	<cstdlib>
+	<sstream>
+
+1500454755 source:d:\witcher the game v0.1\level.cpp
+	"level.h"
+
+1500454731 d:\witcher the game v0.1\level.h
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	"item.h"
+
+1504367325 source:d:\witcher the game v0.1\menu.cpp
+	"menu.h"
+
+1500316633 d:\witcher the game v0.1\menu.h
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<string>
+	<fstream>
+
+1500411962 source:d:\witcher the game v0.1\player.cpp
+	"player.h"
+
+1504370316 d:\witcher the game v0.1\player.h
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	"item.h"
+
+1504370316 source:d:\witcher the game v0.1\main.cpp
+	"level.h"
+	"gamesystem.h"
+	"player.h"
+	"menu.h"
+	"item.h"
+
+1499696313 d:\witcher the game v0.1\item.h
+	<iostream>
+
+1499696286 source:d:\witcher the game v0.1\item.cpp
+	"item.h"
+
+1497028793 source:k:\pawe³ cz\,projekty\c++\witcher the game v0.1\gamesystem.cpp
+	"gamesystem.h"
+
+1498383425 k:\pawe³ cz\,projekty\c++\witcher the game v0.1\gamesystem.h
+	<iostream>
+	<fstream>
+	<conio.h>
+	<cstdlib>
+	<sstream>
+
+1499689086 source:k:\pawe³ cz\,projekty\c++\witcher the game v0.1\item.cpp
+	"item.h"
+
+1499689113 k:\pawe³ cz\,projekty\c++\witcher the game v0.1\item.h
+	<iostream>
+
+1500447555 source:k:\pawe³ cz\,projekty\c++\witcher the game v0.1\level.cpp
+	"level.h"
+
+1500447531 k:\pawe³ cz\,projekty\c++\witcher the game v0.1\level.h
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	"item.h"
+
+1504360125 source:k:\pawe³ cz\,projekty\c++\witcher the game v0.1\menu.cpp
+	"menu.h"
+
+1500309433 k:\pawe³ cz\,projekty\c++\witcher the game v0.1\menu.h
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<string>
+	<fstream>
+
+1500404762 source:k:\pawe³ cz\,projekty\c++\witcher the game v0.1\player.cpp
+	"player.h"
+
+1504363116 k:\pawe³ cz\,projekty\c++\witcher the game v0.1\player.h
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	"item.h"
+
+1512025623 source:k:\pawe³ cz\,projekty\c++\witcher the game v0.1\main.cpp
+	"level.h"
+	"gamesystem.h"
+	"player.h"
+	"menu.h"
+	"item.h"
+
+1497032393 source:g:\pawe³ cz\,projekty\c++\witcher the game v0.1\gamesystem.cpp
+	"gamesystem.h"
+
+1498387025 g:\pawe³ cz\,projekty\c++\witcher the game v0.1\gamesystem.h
+	<iostream>
+	<fstream>
+	<conio.h>
+	<cstdlib>
+	<sstream>
+
+1499692686 source:g:\pawe³ cz\,projekty\c++\witcher the game v0.1\item.cpp
+	"item.h"
+
+1499692713 g:\pawe³ cz\,projekty\c++\witcher the game v0.1\item.h
+	<iostream>
+
+1500451155 source:g:\pawe³ cz\,projekty\c++\witcher the game v0.1\level.cpp
+	"level.h"
+
+1500451131 g:\pawe³ cz\,projekty\c++\witcher the game v0.1\level.h
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	"item.h"
+
+1512025849 source:g:\pawe³ cz\,projekty\c++\witcher the game v0.1\main.cpp
+	"level.h"
+	"gamesystem.h"
+	"player.h"
+	"menu.h"
+	"item.h"
+
+1504366716 g:\pawe³ cz\,projekty\c++\witcher the game v0.1\player.h
+	<iostream>
+	<cstdlib>
+	<windows.h>
+	<time.h>
+	<conio.h>
+	"item.h"
+
+1500408362 source:g:\pawe³ cz\,projekty\c++\witcher the game v0.1\player.cpp
+	"player.h"
+
